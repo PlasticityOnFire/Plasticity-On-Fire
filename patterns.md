@@ -1,3 +1,36 @@
+# Meta-Pattern
+
+## Uneven Adaptation
+
+### Description
+Systems do not adapt uniformly.
+They change unevenly across layers, timescales, and inputs.
+
+### Examples
+- Fast shocks hitting slow systems
+- Pressure propagating unevenly across connected layers
+- Overstimulation biasing adaptation toward short-term reward loops
+- Constraint revealing hidden structure that was previously masked by noise
+
+### Plasticity Lens
+Plasticity does not emerge everywhere at once.
+It appears where existing models fail, timing breaks down, or pressure exceeds the system’s ability to absorb change smoothly.
+
+### Insight
+The most important changes in a system usually begin locally, unevenly, and under tension.
+
+### Implication
+To understand where adaptation is happening, look for:
+- mismatched speeds
+- pockets of instability
+- delayed responses
+- repeated inputs shaping future behavior
+
+### Core Line
+Plasticity emerges where systems can no longer change evenly.
+
+
+
 # Patterns
 
 ## 1. Fast Shocks, Slow Systems
