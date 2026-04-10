@@ -50,3 +50,37 @@ Plasticity is most visible when variability is reduced and signal clarity increa
 
 ### Insight
 To understand adaptation, you often need to stop constantly changing the system.
+
+## 4. Overstimulation Compresses Plasticity
+
+### Description
+High-frequency, high-intensity inputs bias systems toward short-term adaptation.
+
+### Examples
+- Constant digital stimulation (social media, notifications)
+- Rapid reward cycles
+- Continuous novelty exposure
+
+### Plasticity Lens
+Plasticity is not neutral.  
+It is shaped by the frequency and intensity of inputs.
+
+High stimulation environments:
+- shorten time horizons
+- reinforce rapid reward-seeking
+- reduce tolerance for delay and stability
+
+### Insight
+The system adapts to what it is repeatedly exposed to.
+
+Over time, overstimulation shifts plasticity toward:
+- immediacy over depth  
+- novelty over consistency  
+- short-term optimization over long-term structure
+
+### Connection
+Links to:
+- Attention fragmentation  
+- Behavioral drift  
+- Fertility and long-term decision-making  
+- AI and digital environments
